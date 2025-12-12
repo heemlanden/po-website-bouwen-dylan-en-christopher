@@ -1,7 +1,7 @@
 [Terug naar algemene omschrijving](algemene%20omschrijving.md)
 
 # Tussenopdracht 2
-
+{"path":"/tauri/C/Users/OSR/Documents/po-website-bouwen-dylan-en-christopher/opdrachtomschrijving/tussenopdracht 2.md"}
 In deze tussenopdracht gaat ieder van jullie (als je in tweetallen werkt) verder met je persoonlijke profielpagina voor een digitaal klassenboek/social media platform binnen school. Ook voeg je een extra pagina toe.
 
 ## Vereisten:
