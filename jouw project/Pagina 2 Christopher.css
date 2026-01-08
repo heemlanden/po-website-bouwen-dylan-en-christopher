@@ -45,3 +45,7 @@ box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 h1{
 text-align: center;
 }
+
+tr:nth-child(even) {
+  background-color: 3f3f3f;
+}

@@ -1,4 +1,10 @@
- .second{
+
+.BSS {
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+ }
+.second{
         margin-top: 10px;
     }
     .ding{
@@ -36,3 +42,20 @@
     color: white;
         transform: translateY(-4px);
     }   
+    main {
+    width: 70%;
+    }
+ aside   { 
+    width: 25%;
+    background-color: 2f2f2f;
+    padding: 10px;
+    border-radius: 10px
+}
+aside a{
+    margin-bottom: 14px
+}
+#Games:target {
+    background-color: red;
+    border-radius: 8px;
+    padding: 10px;
+}
